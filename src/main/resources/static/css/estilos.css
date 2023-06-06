@@ -48,3 +48,14 @@ h3{
     text-align: center;
     padding: 22px;
 }
+a {
+    text-decoration: white;
+    background-color: #333;
+    color: activecaption;
+}
+a:hover{
+   background-color: black;
+    color: yellow; 
+    font-size: 20px;
+    transition-delay: 0.111s;
+}
